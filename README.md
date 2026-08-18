@@ -2,7 +2,7 @@
 Arjun Mehta - game developer 
 
 Arjun Mehta
-👋 Hey! I'm Arjun Mehta, a 2nd-year Computer Science student at IPS Academy, Indore.
+👋 Hey! I'm Arjun Mehta,
 🎮 I’m interested in Game Development, programming, and building small projects just for fun.
 💻 Currently learning:
 C
@@ -27,9 +27,5 @@ A small 2D game
 A personal portfolio website
 College mini-projects
 🎮 Fun fact: I started programming because I wanted to make games, and now most of my projects somehow turn into debugging sessions.
-📚 Education:
-B.Tech — Computer Science & Engineering
-2nd Year
-IPS Academy, Indore
-📸 Instagram: @arjun_mehta_189189
+
 ⚡ Code → Break → Debug → Repeat
